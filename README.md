@@ -21,7 +21,9 @@ To use this application, you can either clone this repository or download via zi
 
 ## Usage
 
-To use my project you will need a server and have basic understanding of sql commands or follow the video I made step by step
+To use my project you will need a server and have basic understanding of sql commands or follow the video I made step by step.
+
+Video: https://drive.google.com/file/d/1vFYpi24fvQTbyGPy5khO69lisMiW_DaD/view
 
 
 ## License
